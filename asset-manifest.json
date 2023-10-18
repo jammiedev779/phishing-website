@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/phishing_website/static/css/main.2b8984ba.css",
+    "main.js": "/phishing_website/static/js/main.96efdb90.js",
+    "static/js/787.654ea04e.chunk.js": "/phishing_website/static/js/787.654ea04e.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/phishing_website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/phishing_website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/phishing_website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/backup_plan.png": "/phishing_website/static/media/backup_plan.863d50ce19fce21643d9.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/phishing_website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/phishing_website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/isc2.png": "/phishing_website/static/media/isc2.ab6dc441439b26676d02.png",
+    "index.html": "/phishing_website/index.html",
+    "main.2b8984ba.css.map": "/phishing_website/static/css/main.2b8984ba.css.map",
+    "main.96efdb90.js.map": "/phishing_website/static/js/main.96efdb90.js.map",
+    "787.654ea04e.chunk.js.map": "/phishing_website/static/js/787.654ea04e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b8984ba.css",
+    "static/js/main.96efdb90.js"
+  ]
+}
