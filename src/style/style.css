@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    /* text-decoration: none; */
+}
+.thank-you-page{
+    padding:10px;
+}
+.check{
+    font-size:50px;
+    color:rgba(6,111,83,255);
+}
+.social{
+    font-size:15px;
+    color:rgba(6,111,83,255);
+    margin-bottom: 20px;
+}
+.fa-solid{
+    margin:10px;
+    padding:8px;
+    border: 1px solid #000;
+    border-radius:30px;
+}
+.fa-brands{
+    margin:10px;
+    padding:8px;
+    border: 1px solid #000;
+    border-radius: 30px;
+}
+
+h1{
+    font-size:28px;
+    font-weight: bold;
+}
+h3{
+    font-size: 15px;
+    padding-top: 2px;
+
+}   
+h2{
+    font-weight: bold;
+    margin-top:20px;
+    font-size: 16px;
+}
