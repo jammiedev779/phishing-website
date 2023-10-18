@@ -24,7 +24,7 @@ export default function Complete() {
       setUserData({ ...userData, file: selectedFile });
       console.log(selectedFile);
     }
-    nav('/Home/submitted');
+    nav('/phishing_website/home/submitted');
   };
 
   return (
