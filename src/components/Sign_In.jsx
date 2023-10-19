@@ -5,7 +5,7 @@ export default function Sign_In() {
 
   const nav = useNavigate('');
   const onSubmit = () => {
-    nav('/phishing_website/home/form');
+    nav('/phishing-website/home/form');
   }
 
   return (
