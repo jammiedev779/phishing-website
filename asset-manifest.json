@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/phishing-website/static/css/main.e7d91c8e.css",
-    "main.js": "/phishing-website/static/js/main.827d6200.js",
+    "main.js": "/phishing-website/static/js/main.d3e831fd.js",
     "static/js/787.654ea04e.chunk.js": "/phishing-website/static/js/787.654ea04e.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/phishing-website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/phishing-website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -12,11 +12,11 @@
     "static/media/isc2.png": "/phishing-website/static/media/isc2.ab6dc441439b26676d02.png",
     "index.html": "/phishing-website/index.html",
     "main.e7d91c8e.css.map": "/phishing-website/static/css/main.e7d91c8e.css.map",
-    "main.827d6200.js.map": "/phishing-website/static/js/main.827d6200.js.map",
+    "main.d3e831fd.js.map": "/phishing-website/static/js/main.d3e831fd.js.map",
     "787.654ea04e.chunk.js.map": "/phishing-website/static/js/787.654ea04e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7d91c8e.css",
-    "static/js/main.827d6200.js"
+    "static/js/main.d3e831fd.js"
   ]
 }
