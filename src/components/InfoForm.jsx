@@ -30,7 +30,10 @@ function InfoForm() {
     newStep > 0 && newStep <= steps.length && setCurrentStep(newStep);
   };
   return (
-    <div className="shadow-xl rounded-2xl rounded-2xl pb-2 bg-white">
+    <div className="rounded-2xl pb-2 bg-white">
+      <div className="flex align-center justify-center">
+        <h6 className="text-[50px] text-green-600 font-bold">Certificate Revocation</h6>
+      </div>
       <div className="container horizontal mt-5">
         <Stepper steps={steps} currentStep={currentStep}></Stepper>
         <div className="my-10 p-10">
