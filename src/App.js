@@ -6,7 +6,7 @@ import Submitted from "./components/Submitted";
 
 const router = createBrowserRouter([
     {
-        path:"/phishing_website/home",
+        path:"/home",
         element: <MainLayout/>,
         children:[
             {
@@ -24,8 +24,8 @@ const router = createBrowserRouter([
         ]
     },
     {
-        path:"/phishing_website",
-        element: <Navigate to="/phishing_website/home/sign_in"></Navigate>
+        path:"/",
+        element: <Navigate to="/home/sign_in"></Navigate>
     }
 ])
 
