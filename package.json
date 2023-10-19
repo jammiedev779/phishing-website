@@ -1,6 +1,6 @@
 {
   "homepage": "https://jammiedev779.github.io/phishing-website/",
-  "name": "phishing_web",
+  "name": "phishing-web",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
